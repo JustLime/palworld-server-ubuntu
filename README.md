@@ -61,8 +61,8 @@ Big thanks to A1RM4X for the basic instructions to setup a dedicated Palworld se
 
    ```bash
    mkdir ~/.steam
-   mkdir ~/Steam/sdk32
-   mkdir ~/Steam/sdk64
+   mkdir ~/.steam/sdk32
+   mkdir ~/.steam/sdk64
    ```
 
 2. Create the necessary symlinks:
